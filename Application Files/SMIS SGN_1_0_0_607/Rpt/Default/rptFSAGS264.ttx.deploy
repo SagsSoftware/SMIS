@@ -1,0 +1,12 @@
+FlightNo	String	50	
+Belt	String	50	
+BeltAgent	String	50	
+ParkingBay	String	20
+ArrStaff	String	100
+FirstBag	String	5
+LastBag	String	5
+ScheduledTime	String	5
+ChockTime	String	5
+TotalPax	Number
+Gate	String	5
+SSR	String	100
